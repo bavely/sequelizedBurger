@@ -1,0 +1,46 @@
+.body{
+    background-image: url("http://backgrounds4k.net/wp-content/uploads/2016/05/Fast-Food-background-3840x2160.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:100% 100%; 
+ 
+}
+li{
+
+    margin: 5px;
+    
+}
+
+.divA, .divB{
+    background-color:#FAD7A0;opacity:0.7;
+    margin: 20px;
+    padding: 10px;
+}
+
+.image{
+    margin-top: 20px;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    right: 74px;
+}
+
+.Add{
+
+    position: relative;
+    left:122px;
+}
+
+#newBurger{
+    position: relative;
+    left:88px; 
+}
+
+h1{
+    background-color:#FAD7A0;
+    width: 270px;
+    padding: 5px;
+    position: relative;
+    left: 466px;
+}
+
