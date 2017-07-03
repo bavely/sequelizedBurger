@@ -1,4 +1,11 @@
 {
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "burgerssequ_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
   "test": {
     "username": "ymwrfy5zbpxuyufl",
     "password": "wq1821dhlhcu6llt",
