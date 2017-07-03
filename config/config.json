@@ -7,11 +7,15 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "ymwrfy5zbpxuyufl",
-    "password": "wq1821dhlhcu6llt",
-    "database": "sbraqltn3avfhgvf",
-    "host": "ko86t9azcob3a2f9.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+   "username": "root",
+    "password": "root",
+    "database": "burgerssequ_db",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   }
    
+  ,"production": {
+    "use_env_variable":"JAWSDB_URL",
+    "dialect": "mysql"
+  }
 }
