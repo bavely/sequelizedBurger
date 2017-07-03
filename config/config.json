@@ -1,11 +1,4 @@
 {
-  // "development": {
-  //   "username": "root",
-  //   "password": "root",
-  //   "database": "burgerssequ_db",
-  //   "host": "127.0.0.1",
-  //   "dialect": "mysql"
-  // },
   "test": {
     "username": "ymwrfy5zbpxuyufl",
     "password": "wq1821dhlhcu6llt",
@@ -13,12 +6,5 @@
     "host": "ko86t9azcob3a2f9.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
-  // ,
-  // "production": {
-  //   "username": "root",
-  //   "password": null,
-  //   "database": "database_production",
-  //   "host": "127.0.0.1",
-  //   "dialect": "mysql"
-  // }
+   
 }
